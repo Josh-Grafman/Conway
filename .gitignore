@@ -1,0 +1,6 @@
+.vscode
+run*
+test*
+!tests.cpp
+*.o
+*.a
